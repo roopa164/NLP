@@ -1,2 +1,4 @@
-ipykernel
+numpy==1.21.4
+streamlit==1.2.0
+scikit-learn==1.01
 tensorflow
